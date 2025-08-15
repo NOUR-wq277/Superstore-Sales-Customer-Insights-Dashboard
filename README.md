@@ -1,1 +1,44 @@
-# Superstore-Sales-Customer-Insights-Dashboard
+# 📊 Superstore Sales & Customer Insights Dashboard
+
+An interactive **Power BI** dashboard that provides deep insights into sales performance, customer behavior, and product trends for a Superstore dataset.  
+The dashboard helps track KPIs, analyze sales by region and category, and identify opportunities for business growth.
+
+---
+
+## 🚀 Features
+
+- **Sales Performance Analysis** – Track revenue, profit, and sales quantity over time.
+- **Customer Insights** – Understand customer segments, purchase patterns, and demographics.
+- **Product Analysis** – Identify best-selling products and underperforming categories.
+- **Regional Breakdown** – Compare sales across regions, states, and cities.
+- **Interactive Filters** – Filter data by category, sub-category, region, and date range.
+
+---
+
+## 📂 Files in This Repository
+
+- `Superstore_Dashboard.pbix` → Power BI dashboard file.
+- `Superstore_Sales_Data.xlsx` → Dataset used in the analysis.
+- `images/dashboard_preview.png` → Screenshot of the dashboard for quick preview.
+
+## 📥 How to Use
+
+1. Clone or download this repository.
+2. Open the `.pbix` file in **Power BI Desktop**.
+3. Load the dataset (`Superstore_Sales_Data.xlsx`) if required.
+4. Interact with the dashboard using filters and slicers.
+
+---
+
+## 📊 Data Source
+
+This project uses the **Sample Superstore dataset**, a common dataset for sales analytics, available from Tableau and other public sources.
+
+---
+
+## 🧠 Insights from the Dashboard
+
+- Top-performing regions and categories by sales.
+- Products with the highest and lowest profit margins.
+- Seasonal sales trends and spikes.
+- High-value customer segments and their buying patterns.
